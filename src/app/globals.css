@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+:root {
+  --background: #0a0a0a;
+  --foreground: #ededed;
+}
+
+.container {
+  @apply mx-auto 2xl:max-w-[1517px] px-5 sm:px-[60px] xl:px-[120px];
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Hero Banner */
+
+.name {
+  @apply text-4xl md:text-5xl;
+}
+
+.banner-greeting {
+  @apply text-3xl md:text-4xl;
+}
+
+.section-heading {
+  @apply text-3xl md:text-4xl text-center font-bold text-white my-12 md:my-24;
+}
