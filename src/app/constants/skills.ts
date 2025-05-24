@@ -51,10 +51,10 @@ const Frontend = {
       link: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg",
       needWhiteBackground: true,
     },
-    {
-      name: "Vitest",
-      link: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg",
-    },
+    // {
+    //   name: "Vitest",
+    //   link: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg",
+    // },
     {
       name: "Jest",
       link: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg",
