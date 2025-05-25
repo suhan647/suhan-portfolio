@@ -39,7 +39,7 @@ function HomeBanner() {
               >
                 <h1 className="name font-bold">
                   <span className="banner-greeting">Hi, I&apos;m </span>
-                  Abhijit&nbsp;Singh.
+                  Suhan&nbsp;Ahmed.
                 </h1>
               </MotionWrapper>
               <h2 className="text-2xl my-8">
