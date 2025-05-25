@@ -10,10 +10,7 @@ interface Project {
 }
 
 import LMSImage from "public/lms.png";
-import AestheticRecordsImage from "public/AR.png";
-import HwyHaulImage from "public/HwyHaul.png";
-import AssureAIImage from "public/AssureAI.png";
-import KanbanImage from "public/kanban.png";
+
 import HbitsImage from "public/HbitsImage.png";
 import opsImage from "public/ops-img.jpeg"
   
